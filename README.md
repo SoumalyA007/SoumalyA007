@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Java+Developer;API+Automation+Specialist;Selenium+Automation+Engineer;Building+Enterprise+Automation+Frameworks;Learning+CI%2FCD+%7C+Docker+%7C+DevOps" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 </div>
 
 ---
@@ -30,37 +26,37 @@ I'm a **QA Automation Engineer** passionate about designing scalable automation 
 
 # 🛠 Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-</p>
+**Languages**
 
-### Automation
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=selenium" />
-<img src="https://skillicons.dev/icons?i=maven" />
-<img src="https://skillicons.dev/icons?i=postman" />
-</p>
+<br/>
 
-### DevOps
+**Automation**
 
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=selenium,maven,postman&theme=dark" />
 
-### IDE
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=idea,vscode" />
-</p>
+**DevOps**
 
-### Database
+<img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,linux&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<br/>
+
+**IDE**
+
+<img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" />
+
+<br/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+</div>
 
 ---
 
@@ -191,17 +187,9 @@ Currently building
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SoumalyA007&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumalyA007&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -209,7 +197,15 @@ Currently building
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumalyA007&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumalyA007&theme=tokyo-night"/>
 
 </div>
 
@@ -279,9 +275,9 @@ Automation Best Practices
 
 # 🤝 Connect With Me
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: [linkedin.com/in/soumalya-hajra](https://www.linkedin.com/in/soumalya-hajra/)
 
-Email: YOUR_EMAIL
+Email: [soumalya.uchalan@gmail.com](mailto:soumalya.uchalan@gmail.com)
 
 Portfolio: Coming Soon
 
